@@ -1,4 +1,4 @@
-var cacheName = 'thirdVersion';
+var cacheName = 'fourthVersion';
 
 self.addEventListener('install', event => {
   event.waitUntil(
